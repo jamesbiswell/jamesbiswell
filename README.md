@@ -56,9 +56,15 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fjamesbiswell%3Fy%3Dlast&query=%24.total.lastYear&label=Contributions%20in%20the%20last%20year&color=brightgreen" alt="GitHub contributions in the last year"/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jamesbiswell/jamesbiswell/output/commit-invaders-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jamesbiswell/jamesbiswell/output/commit-invaders.svg" />
-  <img src="https://raw.githubusercontent.com/jamesbiswell/jamesbiswell/output/commit-invaders.svg" alt="Commit Invaders" width="100%" />
-</picture>
+
+[//]: # (<picture>)
+
+[//]: # (  <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://raw.githubusercontent.com/jamesbiswell/jamesbiswell/output/commit-invaders-dark.svg" />)
+
+[//]: # (  <source media="&#40;prefers-color-scheme: light&#41;" srcset="https://raw.githubusercontent.com/jamesbiswell/jamesbiswell/output/commit-invaders.svg" />)
+
+[//]: # (  <img src="https://raw.githubusercontent.com/jamesbiswell/jamesbiswell/output/commit-invaders.svg" alt="Commit Invaders" width="100%" />)
+
+[//]: # (</picture>)
+
 </p>
