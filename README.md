@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 </p>
 
-<h3 align="center">DBs</h3>
+<h3 align="center">Databases</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
