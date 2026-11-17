@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/IMG_20250930_144451216.jpg" alt="Header" width="70%" />
+</p>
+
 <h3 align="center">Certifications</h3>
 <p align="center">
   <a href="https://credly.com/badges/3c32b431-ffaf-4840-ba5b-9edcb874074c/public_url">
