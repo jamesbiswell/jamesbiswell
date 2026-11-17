@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/IMG_20250930_144451216.jpg" alt="Header" width="70%" />
+  <img src="img/IMG_20250930_144451216.jpg" alt="Header" width="100%" />
 </p>
 
 <h3 align="center">Certifications</h3>
